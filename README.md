@@ -1,4 +1,4 @@
-# machine-learning-project-
+# Machine_Learning_Mini_Project
 END TO END SPEECH EMOTION RECOGNITION USING ANN
 
 
